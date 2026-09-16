@@ -1,0 +1,5 @@
+"income_group","OverTime","total_employees","attrition_count","attrition_rate"
+"Low Income","Yes","114","64","56.14"
+"Higher Income","Yes","302","63","20.86"
+"Low Income","No","281","49","17.44"
+"Higher Income","No","773","61","7.89"

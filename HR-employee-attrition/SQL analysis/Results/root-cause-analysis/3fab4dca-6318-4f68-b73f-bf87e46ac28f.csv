@@ -1,0 +1,7 @@
+"BusinessTravel","OverTime","total_employees","attrition_count","attrition_rate"
+"Travel_Frequently","Yes","86","36","41.86"
+"Travel_Rarely","Yes","295","84","28.47"
+"Non-Travel","Yes","35","7","20.0"
+"Travel_Frequently","No","191","33","17.28"
+"Travel_Rarely","No","748","72","9.63"
+"Non-Travel","No","115","5","4.35"
